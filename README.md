@@ -6,7 +6,7 @@
 ### Hi 👋 
 I am Mus! I am working on projects related web Dev.
 - 👨🏽‍💻 Current studyng Dev Web Full Stack.
-- 🤝 Looking for collaborations in for front stuff.
+- 🤝 Looking for collaborations.
 - 🌐 Visit my [porfolio website](https://musportfolio.formationdevweb.fr//) for complete background and contact.
 
 <p align = "center">
