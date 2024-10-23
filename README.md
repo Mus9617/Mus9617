@@ -1,6 +1,6 @@
 <p align="center">
   <h2>Hi 👋, I'm Mus!</h2>
-  <p>I'm working on projects related to web development.</p>
+  <p>I'm working on projects related to web & app development.</p>
 </p>
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J4cmZ4ajJpNHRobTBleGJlbnM1MXlwcmQ4aGV3cnN4cXY0c3E4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="150">
