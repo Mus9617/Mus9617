@@ -10,7 +10,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg" width="150">
 </p>
 About Me
-👨🏽‍💻 Currently studying Full Stack Web Development.
+👨🏽‍💻 Currently studying Full Stack Web  & app Development.
 🤝 Looking for collaboration opportunities.
 🌐 Visit my portfolio website for a complete background and contact information.
 ⭐ From Mus
