@@ -16,7 +16,6 @@
 
 ## About Me
 
-- 👨🏽‍💻 Currently studying Full Stack Web & App Development.
 - 🤝 Looking for collaboration opportunities.
 - 🌐 Visit my [portfolio website](https://protfolio-srni.vercel.app/) for a complete background and contact information.
 - ⭐ From Mus
