@@ -37,7 +37,7 @@
 ### Backend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" alt="NestJS" />
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/NestJS-logo-wordmark.svg" width="40" alt="NestJS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" alt="Lua" />
@@ -53,8 +53,8 @@
 
 ### Tools
 <p align="left">
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Postman_(software).png" width="40" alt="Postman" />
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/JetBrains_company_logo.svg" width="40" alt="JetBrains" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="40" alt="Postman" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/JetBrains_Logo.svg" width="40" alt="JetBrains" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
