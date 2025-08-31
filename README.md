@@ -1,83 +1,84 @@
 <h1 align="center">👋 Hi, I'm Mus</h1>
-<h3 align="center">Full Stack Developer — 3+ years building scalable apps</h3>
+<h3 align="center">Full Stack Developer — building scalable apps</h3>
 
 <p align="center">
-  <a href="https://protfolio-srni.vercel.app/" target="_blank">🌐 Portfolio</a>
+  <a href="https://protfolio-srni.vercel.app/" target="_blank">Portfolio</a>
   •
-  <a href="https://github.com/Mus9617" target="_blank">💻 GitHub</a>
+  <a href="https://github.com/Mus9617" target="_blank">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mus9617&label=Profile%20views&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Mus9617&label=Profile%20views&style=flat-square" alt="Profile views badge" />
 </p>
 
 ---
 
 ## About Me
-- I craft **end-to-end solutions** for web & apps.
-- Focus on **clean architectures**, **performance** and **DX**.
-- Open to collaboration & interesting problems.
+- End-to-end solutions for web & apps.
+- Enfoque en arquitectura limpia, rendimiento y DX.
+- Abierto a colaboraciones e ideas interesantes.
 
 ---
 
 ## Tech Stack
+
 ### Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" alt="NestJS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" alt="Lua" />
 </p>
 
-### 🗄Databases
+### Databases & Data
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://avatars.githubusercontent.com/u/8207326?s=200&v=4" width="40" alt="HeidiSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="Prisma" />
+  <img src="https://raw.githubusercontent.com/HeidiSQL/HeidiSQL/master/res/heidisql_256.png" width="40" alt="HeidiSQL" />
 </p>
 
-### Tools & Others
+### Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mus9617&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mus9617&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mus9617&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mus9617&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Mus9617&theme=radical&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Mus9617&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
 ## Highlights
-- Frontend: **Modern React/Next.js**, responsive & interactive UIs.
-- Backend: **API design**, **real-time systems**, **DB architecture**.
-- Databases: **PostgreSQL, MongoDB, HeidiSQL**.
-- Scripting: **Vorp Core**, **Qbcore**, **ESX**.
+- Frontend: React, React Native, Next.js, TypeScript.
+- Backend: Node.js, NestJS, API design, tiempo real, arquitectura de datos.
+- Data: PostgreSQL, MongoDB, Prisma (ORM), HeidiSQL.
+- Scripting: Vorp Core, Qbcore, ESX.
 
 ---
 
-## Let’s Connect
-- Portfolio: **https://protfolio-srni.vercel.app/**
-- GitHub: **https://github.com/Mus9617**
-
-> ⭐ If you like my work, consider giving a star to the repos!
+## Contact
+- Portfolio: https://protfolio-srni.vercel.app/
+- GitHub: https://github.com/Mus9617
