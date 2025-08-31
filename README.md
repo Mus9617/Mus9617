@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="Prisma" />
-  <img src="https://raw.githubusercontent.com/HeidiSQL/HeidiSQL/master/res/heidisql_256.png" width="40" alt="HeidiSQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/HeidiSQL-Logo.png" width="40" alt="HeidiSQL" />
 </p>
 
 ### Tools
