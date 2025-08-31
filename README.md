@@ -15,8 +15,9 @@
 
 ## About Me
 - End-to-end solutions for web & apps.
-- Enfoque en arquitectura limpia, rendimiento y DX.
-- Abierto a colaboraciones e ideas interesantes.
+- Focus on clean architectures, performance and DX.
+- Open to collaborations and interesting problems.
+- I love **automation and game content generation** using **Mistral AI**, creating infinite ideas and lore for player-driven experiences.
 
 ---
 
@@ -36,7 +37,7 @@
 ### Backend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" alt="NestJS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" alt="Lua" />
@@ -52,6 +53,8 @@
 
 ### Tools
 <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29_logo.svg" width="40" alt="Postman" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/JetBrains_Logo_2016.svg" width="40" alt="JetBrains" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
@@ -73,9 +76,11 @@
 
 ## Highlights
 - Frontend: React, React Native, Next.js, TypeScript.
-- Backend: Node.js, NestJS, API design, tiempo real, arquitectura de datos.
+- Backend: Node.js, NestJS, .NET, PHP, Lua.
 - Data: PostgreSQL, MongoDB, Prisma (ORM), HeidiSQL.
+- Tools: Postman, JetBrains IDEs, Docker, Git/GitHub.
 - Scripting: Vorp Core, Qbcore, ESX.
+- Game Dev: Automation and narrative generation with **Mistral AI**, enabling infinite ideas and lore.
 
 ---
 
