@@ -53,8 +53,8 @@
 
 ### Tools
 <p align="left">
-  <img src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo.png" width="40" alt="Postman" />
-  <img src="https://banner2.cleanpng.com/20180430/rsq/kisspng-intellij-idea-jetbrains-teamcity-resharper-softwar-5ae6beea3bd790.2289401115250715942451.jpg" width="40" alt="JetBrains" />
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Postman_(software).png" width="40" alt="Postman" />
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/JetBrains_company_logo.svg" width="40" alt="JetBrains" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
