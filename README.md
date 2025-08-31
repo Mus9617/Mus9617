@@ -13,15 +13,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 - I craft **end-to-end solutions** for web & apps.
 - Focus on **clean architectures**, **performance** and **DX**.
 - Open to collaboration & interesting problems.
 
 ---
 
-## 🧰 Tech Stack
-### 🌐 Frontend
+## Tech Stack
+### Frontend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -40,14 +40,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" />
 </p>
 
-### 🗄️ Databases
+### 🗄Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://avatars.githubusercontent.com/u/8207326?s=200&v=4" width="40" alt="HeidiSQL"/>
 </p>
 
-### 🔧 Tools & Others
+### Tools & Others
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
@@ -76,7 +76,7 @@
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 - Portfolio: **https://protfolio-srni.vercel.app/**
 - GitHub: **https://github.com/Mus9617**
 
