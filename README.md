@@ -51,7 +51,7 @@
 
 ---
 
-## 🧩 Highlights
+## Highlights
 - Frontend: **Modern React/Next.js**, responsive & interactive UIs.
 - Backend: **API design**, **real-time systems**, **DB architecture**.
 - Scripting: **Vorp Core**, **Qbcore**, **ESX**.
