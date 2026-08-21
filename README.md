@@ -5,7 +5,7 @@
   <p><i>Crafting performant web apps, immersive game mechanics & AI lore systems.</i></p>
 
   <p>
-    <a href="https://protfolio-srni.vercel.app/" target="_blank"><b>Portfolio</b></a> •
+    <a href="https://bit.ly/zowix-portfolio" target="_blank"><b>Portfolio</b></a> •
     <a href="https://github.com/Mus9617" target="_blank"><b>GitHub</b></a>
   </p>
 
